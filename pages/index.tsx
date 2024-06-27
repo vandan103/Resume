@@ -123,13 +123,10 @@ export default function Home() {
             </p>
 <br></br>
             <p className="">
-            I've experiences of building robust, scalable, and high-performance applications.I'm always excited to take on new challenges and explore emerging technologies.
-
-Throughout my career, I've had the opportunity to work with some amazing teams and clients, and I take pride in delivering solutions that exceed their expectations. Whether it's designing a new feature, optimizing a performance bottleneck, or debugging a critical issue, I thrive in collaborative environments where I can apply my technical skills and creative problem-solving abilities.
-
-Besides coding, I'm also an avid learner and enjoy staying up-to-date with the latest trends and best practices in the industry. I believe in the power of continuous improvement and strive to grow both personally and professionally.
-
-If you'd like to connect, feel free to send me a message. I'm always open to networking and exploring new opportunities. Thanks for stopping by!"
+            I have experiences of building robust, scalable, and high-performance applications.I am always excited to take on new challenges and explore emerging technologies.
+Throughout my career, I have had the opportunity to work with some amazing teams and clients, and I take pride in delivering solutions that exceed their expectations. Whether it is designing a new feature, optimizing a performance bottleneck, or debugging a critical issue, I thrive in collaborative environments where I can apply my technical skills and creative problem-solving abilities.
+Besides coding, I am also an avid learner and enjoy staying up-to-date with the latest trends and best practices in the industry. I believe in the power of continuous improvement and strive to grow both personally and professionally.
+If you would like to connect, feel free to send me a message. I am always open to networking and exploring new opportunities. Thanks for stopping by!
             </p>
           </div>
         </div>
