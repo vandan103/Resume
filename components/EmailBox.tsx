@@ -14,7 +14,7 @@ export default function EmailBox(){
             data-cursor-focusable="true"
             className="border border-v9-light-grey custom-scroll-bar-x border-opacity-50 bg-v9-primary-black p-4 rounded flex-1 focus:border-v9-yellow active:border-v9-yellow outline-none"
             rows={5}
-            placeholder="Hey Vivek, This is an awesome website!"
+            placeholder="Hey Vandan, This is an awesome website!"
             ></textarea>
             <Button>Send me Email !</Button>
         </div>

@@ -19,7 +19,9 @@ export const badgeImage:{[badge:string]:string}={
     "firebase authentication": "https://img.shields.io/badge/firebase_auth-%23039BE5.svg?style=flat-square&logo=firebase&logoColor=%23FFCC2E",
     "firestore database": "https://img.shields.io/badge/firestore_db-%23039BE5.svg?style=flat-square&logo=firebase&logoColor=%23FFCC2E",
     "firebase hosting": "https://img.shields.io/badge/firebase_hosting-%23039BE5.svg?style=flat-square&logo=firebase&logoColor=%23FFCC2E",
-    "tailwind css": "https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white"
+    "tailwind css": "https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white",
+    "php": "https://img.shields.io/badge/php-%2338B2AC.svg?style=flat-square&logo=php&logoColor=white",
+    "android": "https://img.shields.io/badge/android-%2338B2AC.svg?style=flat-square&logo=android&logoColor=white",
 }
 
 export const calculateYears = (date: Date): number => {
