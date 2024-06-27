@@ -1,0 +1,53 @@
+[
+    {
+        "title": "Job Portal",
+        "tagline": "The objective of the application is to develop a system using which job applicants and recruiters can communicate with each other. The purpose is to enable applicants to search for jobs in a convenient manner and to enable employers to find suitable candidates.        ",
+        "year": 0,
+        "badges": [
+          "php","firebase","javascript","stripe","firebase authentication","firestore database","firebase hosting"
+        ],
+        "github_url": "",
+        "stars": 0,
+        "priority": 2,
+        "category": "Web Project"
+      },
+      {
+        "title": "Capture & Translate",
+        "tagline": "Capture and translate is a simple and easy to use app that can extract any text on image and let you convert the text content to any language of your choice. It is as simple as focusing your device camera on image that contains text and all the remaining job will be taken care of by application.",
+        "year": 0,
+        "badges": [
+          "android","java"
+        ],
+        "github_url": "",
+        "demo_url": "",
+        "stars": 0,
+        "priority": 3,
+        "category": "Mobile Application"
+      },
+      {
+        "title": "Try Before Buy",
+        "tagline": "As knowing the prices of gadgets ranges from very high to low, users concern too much about sizes of This products and whether this product might suit them or not. To solve this problem, making an application which can be used to try this product before buying it.",
+        "year": 0,
+        "badges": [
+          "react","typescript","vercel","tailwind css"
+        ],
+        "github_url": "",
+        "demo_url": "",
+        "stars": 0,
+        "priority": 4,
+        "category": "Mobile Application"
+      },
+      {
+        "title": "Food Swipe",
+        "tagline": "The agenda behind this project is to develop a cross platform mobile application Food Swipe that helps to customer for ordering food from their favourite restaurant.",
+        "year": 0,
+        "badges": [
+          "flutter","firebase","firebase authentication"
+        ],
+        "github_url": "",
+        "demo_url": "",
+        "stars": 0,
+        "priority": 5,
+        "category": "Cross Platform Mobile Application"
+      }
+]
