@@ -32,13 +32,13 @@ export default function MetaTags() {
 
         <title>Vandan Bhingradiya</title>
         <meta name="title" content="Vandan Bhingradiya" />
-        <meta name="description" content= "Vandan Parmar Portfolio Website with his past experiences, projects, resume." />
+        <meta name="description" content= "Vandan Bhingradiya Portfolio Website with his past experiences, projects, resume." />
         <meta name="author" content="Vandan Bhingradiya"></meta>
         
         <meta name="robots" content="index, follow" />
         <meta httpEquiv="Content-Type" content="text/html; charset=utf-8" />
         <meta name="language" content="English" />
-        <meta name="google-site-verification" content="P2GFX4aApNjQAZRqGxblrilFSA6PmgeWmMIuRVS8PxM" />
+        <meta name="google-site-verification" content="EWN9XuihAtq0HGcOMQAlWtftDrdt0XZ2_x4RnPHBEKU" />
 
         <meta name="application-name" content="Vandan Bhingradiya Portfolio" />
         <meta name="apple-mobile-web-app-title" content="Vandan Bhingradiya Portfolio" />
