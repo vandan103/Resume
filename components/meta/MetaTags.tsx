@@ -38,7 +38,7 @@ export default function MetaTags() {
         <meta name="robots" content="index, follow" />
         <meta httpEquiv="Content-Type" content="text/html; charset=utf-8" />
         <meta name="language" content="English" />
-        <meta name="google-site-verification" content="EWN9XuihAtq0HGcOMQAlWtftDrdt0XZ2_x4RnPHBEKU" />
+        <meta name="google-site-verification" content="lIVgwJMLS72g9qSMA7CWbhVUTnVnPlkyZDghoRJHtec" />
 
         <meta name="application-name" content="Vandan Bhingradiya Portfolio" />
         <meta name="apple-mobile-web-app-title" content="Vandan Bhingradiya Portfolio" />
